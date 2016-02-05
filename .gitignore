@@ -60,3 +60,6 @@ target/
 \#*#
 *~
 *pyc
+
+# ppm stuff
+*.ppm
