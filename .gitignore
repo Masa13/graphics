@@ -61,5 +61,8 @@ target/
 *~
 *pyc
 
+#Mac Junk
+.DS_store
+
 # ppm stuff
 *.ppm
