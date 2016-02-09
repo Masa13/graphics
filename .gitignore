@@ -62,7 +62,7 @@ target/
 *pyc
 
 #Mac Junk
-.DS_store
+.DS_Store
 
 # ppm stuff
 *.ppm
