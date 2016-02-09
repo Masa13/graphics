@@ -1,1 +1,1 @@
-# Computer Graphics - Masahero Masuda pd4
+# Computer Graphics - Masahero Masuda Period 4
